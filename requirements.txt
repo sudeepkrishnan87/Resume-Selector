@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-pinecone
+langchain-huggingface
+pinecone-client
+pinecone-text
+pypdf
+python-dotenv
+tiktoken
+rank_bm25
+openai
+sentence-transformers
